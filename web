@@ -1,0 +1,13 @@
+<head>
+<title> My web page! </title>
+<style>
+h1,h2 {
+    color: red
+}
+</style>
+</head>
+<body>
+<h1> Big Head line </h1>
+<h2> Smaller Head line </h2>
+</body>
+</html>
